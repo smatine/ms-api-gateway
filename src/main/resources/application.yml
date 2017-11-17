@@ -12,6 +12,7 @@ zuul:
       path: /order/**
       serviceId: template-order-service
 
+
 eureka:
   client:
     serviceUrl:
